@@ -13,5 +13,6 @@ python3 ende.py
 ```bash
 python -m venv .venv
 pip install -r requirement.txt
-python3 ende.py
+#Run program
+python ende.py
 ```
